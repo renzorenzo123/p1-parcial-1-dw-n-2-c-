@@ -1,6 +1,6 @@
 # Parcial 1
 
-Renzo Motta
+Renzo Motta p1-parcial-1-dw[n]2[c]
 
 ## Consignas de entrega
 
